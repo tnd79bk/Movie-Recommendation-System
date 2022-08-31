@@ -3,7 +3,7 @@
 TOPIC: Movie Recommender System: Performance comparison amongst Machine Learning Methods – Collaborative Filtering and Content-based approach
 
 All the source code can be cloned from the github link 
-https://github.com/tnd79bk/Movie-Recommendation-System
+https://github.com/tnd79bk/Movie-Recommendation-System.git
 
 ## 1. Contributors:
 
