@@ -2,12 +2,12 @@
 
 TOPIC: Movie Recommender System: Performance comparison amongst Machine Learning Methods – Collaborative Filtering and Content-based approach
 
-All the source code can be cloned from the github link 
+All the source code can be cloned from the github link Cancel changes
 https://github.com/tnd79bk/Movie-Recommendation-System.git
 
 ## 1. Contributors:
 
-- Tran Ngoc Duc (20184243)
+- Tran Ngoc Duc
 
 ## 2. Requirements:
 - Python 3.8 (For both linux and windows)
